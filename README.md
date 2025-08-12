@@ -53,4 +53,28 @@ Using Python and popular data visualization libraries, the analysis identifies g
 
 ---
 
-## 📂 Repository Structure
+
+## 📦 Technologies Used
+- **Python** – Core language for data analysis  
+- **Pandas** – Data manipulation & cleaning  
+- **NumPy** – Numerical calculations  
+- **Matplotlib & Seaborn** – Static visualizations  
+- **Jupyter Notebook** – Interactive coding environment  
+
+---
+
+## 📈 Future Enhancements
+- Develop an interactive Tableau dashboard for dynamic exploration.  
+- Build a predictive model to forecast next year’s sales.  
+- Perform Customer Lifetime Value (CLV) analysis for retention strategies.  
+
+---
+
+## 📸 Sample Visualizations
+*(Add PNG images of key plots here — bar charts, heatmaps, profit-discount scatter, etc. to make the README visually appealing.)*
+
+---
+
+## 📄 License
+This project is released under the **MIT License** – free to use and modify.
+
